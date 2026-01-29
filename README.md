@@ -1,9 +1,14 @@
 # Disclaimer
 This project is intended solely for academic research, authorized security testing, and educational purposes. Users must adhere to the following principles:
+
 Legitimate and Compliant Use: Testing must only be performed on systems you own or have explicit authorization to test.
+
 No Malicious Use: Do not use this project for unauthorized attacks, intrusions, or any destructive activities.
+
 Your Responsibility: You are solely responsible for any legal consequences arising from improper use.
+
 Legal Compliance: Ensure your use complies with all applicable local, national, and international laws and regulations.
+
 The author shall not be held liable for any direct or indirect damages, losses, or legal issues resulting from the use of this project. If you do not agree to these terms, please discontinue use immediately.
 
 # Audio Adversarial Attack
@@ -102,20 +107,33 @@ Notes:
 
 ## Demos
 compare examples in the paper:
+
 [Compare1_audio1](./demo/compare1_audio1.wav)
+
 [Compare1_audio1](./demo/compare1_audio2.wav)
+
 [Compare2_audio1](./demo/compare2_audio1.wav)
+
 [Compare2_audio1](./demo/compare2_audio2.wav)
 
+
 digital examples:
+
 [Google](./demo/digital_how_is_the_weather.wav)
+
 [Google](./demo/digital_take_a_picture.wav)
 
+
 physical examples:
+
 [Alexa](./demo/alexa.mp4)
+
 [Alex2](./demo/alexa2.mp4)
+
 [doubao](./demo/doubao.mp4)
+
 [ex1](./demo/physical_open_the_door.wav)
+
 [ex2](./demo/physical_turn_off_the_light.wav)
 
 ## Citation
@@ -123,6 +141,5 @@ physical examples:
 If you use this repository in your research, please cite the original paper:
 
 ```
-Hearing Without Noticing? Attention-Aware
-Stealthy Black-box Adversarial Audio Attacks
+Hearing Without Noticing? Attention-Aware Stealthy Black-box Adversarial Audio Attacks
 ```
