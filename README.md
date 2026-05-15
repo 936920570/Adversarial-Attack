@@ -12,7 +12,7 @@ Legal Compliance: Ensure your use complies with all applicable local, national, 
 The author shall not be held liable for any direct or indirect damages, losses, or legal issues resulting from the use of this project. If you do not agree to these terms, please discontinue use immediately.
 
 # Audio Adversarial Attack
-This is the official code implementation of the paper: "Hearing Without Noticing? Attention-Aware Stealthy Black-box Adversarial Audio Attacks".
+**This is the official code implementation of the paper: "Hearing Without Noticing? Attention-Aware Stealthy Black-box Adversarial Audio Attacks".**
 
 This script generates short, segment-based adversarial examples by injecting optimized perturbations into a carrier music track at a specified start time.
 
